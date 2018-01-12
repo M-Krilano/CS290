@@ -1,2 +1,2 @@
-# OSU-CS290
+#CS290
 Assignments
